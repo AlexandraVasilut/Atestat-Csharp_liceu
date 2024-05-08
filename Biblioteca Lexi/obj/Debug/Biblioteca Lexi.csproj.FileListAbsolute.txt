@@ -1,0 +1,30 @@
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+C:\Users\vasil\source\repos\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe.config
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csprojAssemblyReference.cache
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Descrierea_bibliotecii.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Form1.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Imprumuturi.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_cartilor.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Lista_clientilor.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca_Lexi.Properties.Resources.resources
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.GenerateResource.cache
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.exe
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\obj\Debug\Biblioteca Lexi.pdb
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Database1.mdf
+C:\Users\vasil\Desktop\atestat\varianta veche\Biblioteca Lexi\Biblioteca Lexi\bin\Debug\Database1_log.ldf
